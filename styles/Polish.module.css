@@ -1,0 +1,40 @@
+.page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: var(--navy);
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 2rem 0 1rem;
+  color: var(--purple);
+}
+
+.intro {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.section {
+  margin-bottom: 2rem;
+}
+
+.list {
+  padding-left: 1.2rem;
+  list-style: disc;
+  line-height: 1.8;
+}
+
+.cta {
+  font-weight: 500;
+  margin-top: 2rem;
+}
